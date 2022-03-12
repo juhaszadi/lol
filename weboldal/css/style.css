@@ -1,6 +1,5 @@
 body {
-    background-image: url("/img/Senna.jpg");
-    background-color: rgb(27, 163, 156);
+    background-image: url("https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_1.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: 100% 100%;
@@ -19,32 +18,18 @@ h2{
     font-family: 'Black Han Sans';font-size: 30px;  
 }
 
-h3{
-    text-align: right;
-    color: rgb(255, 255, 255);
-    font-family: 'Black Han Sans';font-size: 30px;   
-}
-
-
-
   p {
-    text-align: center;
+    text-align: left;
     color: rgb(255, 255, 255);
     font-family: 'Black Han Sans';font-size: 30px;
     
   }
 
-  .p1{
-    position: absolute;
-    top: 350px;
-    right: 0;
-    width: 500px;
-    height: 300px;
-  color: rgb(255, 255, 255);
-  font-family: "sans-serif";font-size: 25px;
-  border: 4px solid #ffffff;
-}
+.valami{
+  float: right;
+  size: auto;
 
+}
 
   img{
       animation: cubic-bezier(0.455, 0.03, 0.515, 0.955);
@@ -120,7 +105,10 @@ body {margin:0;}
   width: 100%;
   padding: 70px 0;
   text-align: center;
-  background-color: rgb(27, 163, 156);
+  background-image: url("https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Senna_1.jpg");
+  background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
   margin-top: 20px;
 }
 
